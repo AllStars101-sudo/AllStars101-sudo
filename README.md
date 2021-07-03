@@ -14,9 +14,9 @@
 [![AllStars101-sudo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllStars101-sudo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AllStars101-sudo/IntelliMed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/AllStars101-sudo/IntelliTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
