@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Script-CSS-informational?style=for-the-badge&logo=css3&color=red)
 ![](https://img.shields.io/badge/Open-Git-informational?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/Open-GitHub-informational?style=for-the-badge&logo=github&color=red)
-
+![](https://img.shields.io/badge/Dev-CUDA-informational?style=for-the-badge&logo=nvidia&color=red)
 
 # GitHub Stats 🔭 
 [![AllStars101-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
