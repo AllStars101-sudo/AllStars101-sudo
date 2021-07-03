@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/AI-Tensorflow-informational?style=for-the-badge&logo=tensorflow)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=googlecloud)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=azure)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoftazure)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&logo=visualstudiocode)
 ![](https://img.shields.io/badge/IDE-Vim-informational?style=for-the-badge&logo=vim)
 ![](https://img.shields.io/badge/IDE-Nano-informational?style=for-the-badge&logo=nano)
