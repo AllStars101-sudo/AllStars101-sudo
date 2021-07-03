@@ -10,7 +10,7 @@
 - ⚡ Fun fact: You're doing things your future self will be thinking about. So make it worthwhile! :)
 
 # Technologies and Tools ⚙ 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=linux)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=for-the-badge&logo=linux)
 
 
 
