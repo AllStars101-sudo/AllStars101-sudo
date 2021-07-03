@@ -30,8 +30,8 @@ You can find me on [![Twitter][1.2]][1], or on [![Instagram][2.2]][2]!
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://user-images.githubusercontent.com/53670363/124358023-f3c1f080-dc50-11eb-8854-f60a75079f3f.png (Instagram icon without padding)
+[1.2]: https://user-images.githubusercontent.com/53670363/124358215-e0fbeb80-dc51-11eb-8b45-503ce3302de2.png (twitter icon without padding)
+[2.2]: https://user-images.githubusercontent.com/53670363/124358210-da6d7400-dc51-11eb-8afa-7efc09bea4ae.png (Instagram icon without padding)
 
 <!-- Links to your social media accounts -->
 
