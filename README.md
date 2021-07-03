@@ -26,7 +26,7 @@
 
 <!-- Actual text -->
 
-<align="center">You can find me on [![Twitter][1.2]][1], or on [![Instagram][2.2]][2].</>
+You can find me on [![Twitter][1.2]][1], or on [![Instagram][2.2]][2]!
 
 <!-- Icons -->
 
