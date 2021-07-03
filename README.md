@@ -18,6 +18,9 @@
 <a href="https://github.com/AllStars101-sudo/IntelliMed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliMed&show_icons=true&theme=tokyonight" />
 </a>
+<a href="https://github.com/AllStars101-sudo/IntelliMed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 <a href="https://github.com/AllStars101-sudo/IntelliTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliTable&show_icons=true&theme=tokyonight" />
 </a>
