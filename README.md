@@ -9,7 +9,7 @@
 - 📫 How to reach me: Twitter or Instagram!
 - ⚡ Fun fact: You're doing things your future self will be thinking about. So make it worthwhile! :)
 
-# Technologies and Tools I use  
+# Technologies and Tools I use ⚙ 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=red)
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=archlinux)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=red)
@@ -23,10 +23,12 @@
 ![](https://img.shields.io/badge/IDE-Nano-informational?style=for-the-badge&logo=nano&color=red)
 ![](https://img.shields.io/badge/Web-Flask-informational?style=for-the-badge&logo=flask&color=red)
 ![](https://img.shields.io/badge/Web-Django-informational?style=for-the-badge&logo=django)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=shell&color=red)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=terminal&color=red)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3)
-![](https://img.shields.io/badge/Design-Adobe_CC-informational?style=for-the-badge&logo=adobe)
+![](https://img.shields.io/badge/Open-Git-informational?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/Open-GitHub-informational?style=for-the-badge&logo=github)
+
 
 
 # GitHub Stats 🔭 
