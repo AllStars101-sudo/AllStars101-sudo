@@ -49,8 +49,10 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![Instagram][2.2]][2]!
-You can also email me at chrispagolu@gmail.com
+You can find me on:<br> 
+- [![Twitter][1.2]][1]
+- [![Instagram][2.2]][2]
+- chrispagolu@gmail.com
 
 <!-- Icons -->
 
