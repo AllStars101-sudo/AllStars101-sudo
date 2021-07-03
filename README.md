@@ -8,9 +8,9 @@
 - 💬 Ask me about Python, Flask or Machine Learning
 - 📫 How to reach me: Twitter or Instagram!
 - ⚡ Fun fact: You're doing things your future self will be thinking about. So make it worthwhile! :)
+- 👀 Profile visits: ![](https://komarev.com/ghpvc/?username=AllStars101-sudo)
 
 # Languages and Tools ⚙ 
-<p align="center">
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=red)
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=archlinux)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=red)
@@ -29,7 +29,6 @@
 ![](https://img.shields.io/badge/Script-CSS-informational?style=for-the-badge&logo=css3&color=red)
 ![](https://img.shields.io/badge/Open-Git-informational?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/Open-GitHub-informational?style=for-the-badge&logo=github&color=red)
-</p>
 
 
 # GitHub Stats 🔭 
