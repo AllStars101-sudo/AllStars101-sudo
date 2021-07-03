@@ -24,6 +24,9 @@
 ![](https://img.shields.io/badge/Web-Flask-informational?style=for-the-badge&logo=flask&color=red)
 ![](https://img.shields.io/badge/Web-Django-informational?style=for-the-badge&logo=django)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=shell&color=red)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html)
+![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css)
+![](https://img.shields.io/badge/Design-Adobe_CC-informational?style=for-the-badge&logo=adobe)
 
 
 # GitHub Stats 🔭 
