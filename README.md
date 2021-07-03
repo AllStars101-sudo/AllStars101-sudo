@@ -8,6 +8,7 @@
 - 💬 Ask me about Python, Flask or Machine Learning
 - 📫 How to reach me: Twitter or Instagram!
 - ⚡ Fun fact: You're doing things your future self will be thinking about. So make it worthwhile! :)
+- 🔓 I love open source everything!
 - 👀 Profile visits: ![](https://komarev.com/ghpvc/?username=AllStars101-sudo&style=flat-square)
 
 # Languages and Tools ⚙ 
