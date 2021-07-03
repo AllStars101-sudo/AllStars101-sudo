@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/IDE-Nano-informational?style=for-the-badge&logo=nano&color=red)
 ![](https://img.shields.io/badge/Web-Flask-informational?style=for-the-badge&logo=flask&color=red)
 ![](https://img.shields.io/badge/Web-Django-informational?style=for-the-badge&logo=django)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=terminal&color=red)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=terminalcommands&color=red)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/Open-Git-informational?style=for-the-badge&logo=git)
