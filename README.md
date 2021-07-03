@@ -21,3 +21,20 @@
 <a href="https://github.com/AllStars101-sudo/IntelliTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliTable&show_icons=true&theme=tokyonight" />
 </a>
+
+# Socials 📱 
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://user-images.githubusercontent.com/53670363/124358023-f3c1f080-dc50-11eb-8854-f60a75079f3f.png (Instagram icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/AllStars101X
+[2]: https://www.instagram.com/allstars101
+
