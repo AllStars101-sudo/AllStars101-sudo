@@ -14,6 +14,16 @@
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=archlinux)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=for-the-badge&logo=kalilinux)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/AI-Tensorflow-informational?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=googlecloud)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=azure)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&logo=visualstudiocode)
+![](https://img.shields.io/badge/IDE-Vim-informational?style=for-the-badge&logo=vim)
+![](https://img.shields.io/badge/IDE-Nano-informational?style=for-the-badge&logo=nano)
+![](https://img.shields.io/badge/Web-Flask-informational?style=for-the-badge&logo=flask)
+![](https://img.shields.io/badge/Web-Django-informational?style=for-the-badge&logo=django)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=shell)
 
 
 # GitHub Stats 🔭 
