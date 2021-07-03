@@ -9,5 +9,14 @@
 - 📫 How to reach me: Twitter or Instagram!
 - ⚡ Fun fact: You're doing things your future self will be thinking about. So make it worthwhile! :)
 
+# GitHub Stats 🔭 
+[![AllStars101-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![AllStars101-sudo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllStars101-sudo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AllStars101-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllStars101-sudo)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
