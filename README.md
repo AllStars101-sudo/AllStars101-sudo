@@ -61,7 +61,7 @@ You can find me on:<br>
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/AllStars101X
-[2]: https://www.instagram.com/allstars101
+[2]: https://www.instagram.com/chrispagolu
 
 # Contribution Graph
 Watch as my contribution graph gets eaten by a snake 😄
