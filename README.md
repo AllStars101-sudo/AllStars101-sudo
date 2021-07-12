@@ -63,3 +63,5 @@ You can find me on:<br>
 [1]: https://twitter.com/AllStars101X
 [2]: https://www.instagram.com/allstars101
 
+# Contribution Graph
+![snake gif](https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake.gif)
