@@ -64,4 +64,5 @@ You can find me on:<br>
 [2]: https://www.instagram.com/allstars101
 
 # Contribution Graph
+Watch as my contribution graph gets eaten by a snake 😄
 ![snake gif](https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake.gif)
