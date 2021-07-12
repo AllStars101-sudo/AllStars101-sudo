@@ -33,10 +33,9 @@
 ![](https://img.shields.io/badge/Dev-CUDA-informational?style=for-the-badge&logo=nvidia&color=red)
 
 # GitHub Stats 🔭 
-[![AllStars101-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- [![AllStars101-sudo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllStars101&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![AllStars101-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight)]
+ [![AllStars101-sudo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllStars101&show_icons=true&theme=tokyonight)]
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo&show_icons=true&theme=tokyonight)]
 # Personal favourite repos 🌟 
 <a href="https://github.com/AllStars101-sudo/IntelliMed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliMed&show_icons=true&theme=tokyonight" />
