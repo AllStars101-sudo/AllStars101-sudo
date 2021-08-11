@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo&show_icons=true&theme=tokyonight)
 # Personal favourite repos 🌟 
 <a href="https://github.com/AllStars101-sudo/IntelliMed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliMed&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliMed&show_icons=true&theme=tokyonight&v=2" />
 </a>
 <a href="https://github.com/AllStars101-sudo/IntelliTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliTable&show_icons=true&theme=tokyonight" />
