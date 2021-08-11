@@ -34,11 +34,11 @@
 
 # GitHub Stats 🔭 
 ![AllStars101-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight)
-![AllStars101-sudo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllStars101&show_icons=true&theme=tokyonight)
+![AllStars101-sudo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllStars101&show_icons=true&theme=tokyonight&v=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo&show_icons=true&theme=tokyonight)
 # Personal favourite repos 🌟 
 <a href="https://github.com/AllStars101-sudo/IntelliMed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliMed&show_icons=true&theme=tokyonight&v=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliMed&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/AllStars101-sudo/IntelliTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliTable&show_icons=true&theme=tokyonight" />
