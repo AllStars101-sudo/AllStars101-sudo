@@ -2,7 +2,7 @@
 
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🔭 I’m currently working on my CS Project
+  hNNNNNNMMMNNNNNNNNNNNMMMNNNmn      :.```````````````````````--:     Uptime: "19 years, 1 month, 7 days"
 - 🌱 I’m currently learning Tensorflow
 - 🤔 I’m looking for help with Databases and APIs
 - 💬 Ask me about Python, Flask or Machine Learning
