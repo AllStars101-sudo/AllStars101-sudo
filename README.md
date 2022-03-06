@@ -2,7 +2,7 @@
 
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  hNNNNNNMMMNNNNNNNNNNNMMMNNNmn      :.```````````````````````--:     Uptime: "19 years, 8 months"
+  hNNNNNNMMMNNNNNNNNNNNMMMNNNmn      :.```````````````````````--:     Uptime: "19 years, 8 months, 1 day"
 - 🌱 I’m currently learning Tensorflow
 - 🤔 I’m looking for help with Databases and APIs
 - 💬 Ask me about Python, Flask or Machine Learning
