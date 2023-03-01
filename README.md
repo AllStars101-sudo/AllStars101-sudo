@@ -1,4 +1,3 @@
-[![Header](https://user-images.githubusercontent.com/53670363/124357102-4fd64600-dc4c-11eb-8181-cc3cbd2c486f.png)](https://www.twitter.com/AllStars101X/)
 
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
