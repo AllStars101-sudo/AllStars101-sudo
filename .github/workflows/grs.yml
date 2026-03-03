@@ -11,36 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card (dark)
+      - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github
-          path: profile/stats-dark.svg
+          path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&rank_icon=github
-          path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card (dark)
+      - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact
-          path: profile/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card (light)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&theme=default&hide_border=true&bg_color=ffffff&layout=compact
-          path: profile/top-langs-light.svg
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

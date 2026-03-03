@@ -1,18 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:cbd5e1,100:94a3b8&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=0f172a&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=2563eb&descAlignY=55&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all" alt="Typing SVG" />
-  </picture>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
 
 </div>
 
@@ -127,23 +117,11 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 **`Languages`**
 
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,python,cpp,c,ts,java&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,python,cpp,c,ts,java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=swift,python,cpp,c,ts,java&theme=dark" alt="Languages" />
-  </picture>
-</a>
+[![Languages](https://skillicons.dev/icons?i=swift,python,cpp,c,ts,java&theme=dark)](https://skillicons.dev)
 
 **`Frontend & Mobile`**
 
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" />
-  </picture>
-</a>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark)](https://skillicons.dev)
 
 **`Hardware & Embedded`**
 
@@ -155,13 +133,7 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 **`Cloud & Tools`**
 
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase,git,vscode&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase,git,vscode&theme=light" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase,git,vscode&theme=dark" alt="Cloud" />
-  </picture>
-</a>
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase,git,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -171,26 +143,14 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-  <img width="49%" src="./profile/stats-dark.svg" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AllStars101-sudo&theme=tokyonight&hide_border=true&background=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AllStars101-sudo&theme=default&hide_border=true&background=ffffff" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AllStars101-sudo&theme=tokyonight&hide_border=true&background=0d1117" />
-</picture>
+<img width="49%" src="./profile/stats.svg" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=AllStars101-sudo&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
-  <img width="40%" src="./profile/top-langs-dark.svg" />
-</picture>
+<img width="40%" src="./profile/top-langs.svg" />
 
 </div>
 
@@ -198,13 +158,7 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AllStars101-sudo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=1a1b27&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AllStars101-sudo&bg_color=ffffff&color=2563eb&line=2563eb&point=0f172a&area_color=f1f5f9&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AllStars101-sudo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=1a1b27&area=true&hide_border=true" alt="Activity Graph" />
-  </picture>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AllStars101-sudo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=1a1b27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -234,8 +188,4 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:cbd5e1,100:94a3b8&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />
