@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4a7ddb,50:6b9de8,100:d4e4f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=e8edf3&descAlignY=55&animation=fadeIn" />
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3f6b,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=c0caf5&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d5aa0,50:5b8dd9,100:b8d4f0&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=e8edf3&descAlignY=55&animation=fadeIn" />
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3f6b,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=c0caf5&descAlignY=55&animation=fadeIn" />
 </picture>
 
 <div align="center">
@@ -193,7 +193,7 @@ AI route planning with real-time health analytics, optimising for safety, scener
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:d4e4f7,50:6b9de8,100:4a7ddb&height=120&section=footer" />
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:2d3f6b,100:1a1b27&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:b8d4f0,50:5b8dd9,100:2d5aa0&height=120&section=footer" />
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:2d3f6b,100:1a1b27&height=120&section=footer" />
 </picture>
