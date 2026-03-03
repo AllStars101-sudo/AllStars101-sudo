@@ -143,14 +143,14 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
+<img width="49%" src="./profile/stats.svg" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=AllStars101-sudo&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" />
+<img width="40%" src="./profile/top-langs.svg" />
 
 </div>
 
