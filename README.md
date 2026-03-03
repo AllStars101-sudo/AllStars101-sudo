@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=650&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
 
 </div>
 
