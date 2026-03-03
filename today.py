@@ -2,7 +2,7 @@ import re
 from datetime import datetime
 from dateutil import relativedelta
 
-BIRTHDAY = datetime(2002, 7, 5)
+BIRTHDAY = datetime(2004, 3, 18)
 
 
 def calculate_uptime() -> str:

@@ -23,7 +23,7 @@ education:
     - B.Eng Electrical Engineering (Hons)
     - B.Sc Computer Science
 role: Full-Stack Engineer + Hardware Hacker
-uptime: "23 years, 7 months, 26 days"
+uptime: "21 years, 11 months, 13 days"
 ```
 
 </td>
