@@ -1,67 +1,191 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
 
+<div align="center">
 
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=650&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Tensorflow
-- 🤔 I’m looking for help with Databases and APIs
-- 💬 Ask me about Python, Flask or Machine Learning
-- 📫 How to reach me: Twitter or Instagram!
-- ⚡ Fun fact: You're doing things your future self will be thinking about. So make it worthwhile! :)
-- 🔓 I love open source everything!
-- 👀 Profile visits: ![](https://komarev.com/ghpvc/?username=AllStars101-sudo&style=flat-square)
+</div>
 
-# Languages and Tools ⚙ 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=red)
-![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=for-the-badge&logo=archlinux)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=red)
-![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=for-the-badge&logo=kalilinux)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=red)
-![](https://img.shields.io/badge/AI-Tensorflow-informational?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=googlecloud&color=red)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoftazure)
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&logo=visualstudiocode&color=red)
-![](https://img.shields.io/badge/IDE-Vim-informational?style=for-the-badge&logo=vim)
-![](https://img.shields.io/badge/IDE-Nano-informational?style=for-the-badge&logo=nano&color=red)
-![](https://img.shields.io/badge/Web-Flask-informational?style=for-the-badge&logo=flask&color=red)
-![](https://img.shields.io/badge/Web-Django-informational?style=for-the-badge&logo=django)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=shell&color=red)
-![](https://img.shields.io/badge/Script-HTML-informational?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/Script-CSS-informational?style=for-the-badge&logo=css3&color=red)
-![](https://img.shields.io/badge/Open-Git-informational?style=for-the-badge&logo=git)
-![](https://img.shields.io/badge/Open-GitHub-informational?style=for-the-badge&logo=github&color=red)
-![](https://img.shields.io/badge/Dev-CUDA-informational?style=for-the-badge&logo=nvidia&color=red)
+---
 
-# GitHub Stats 🔭 
-![AllStars101-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight&v=2)
-![AllStars101-sudo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllStars101&show_icons=true&theme=tokyonight&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo&show_icons=true&theme=tokyonight&v=2)
-# Personal favourite repos 🌟 
-<a href="https://github.com/AllStars101-sudo/IntelliMed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliMed&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/AllStars101-sudo/IntelliTable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllStars101-sudo&repo=IntelliTable&show_icons=true&theme=tokyonight" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# Socials 📱 
+### `$ whoami`
 
-<!-- Actual text -->
+```yaml
+name: Chris Pagolu
+location: Sydney, Australia
+education:
+  university: UNSW Sydney
+  degrees:
+    - B.Eng Electrical Engineering (Hons)
+    - B.Sc Computer Science
+role: Full-Stack Engineer + Hardware Hacker
+uptime: "23 years, 7 months, 26 days"
+```
 
-You can find me on:<br> 
-- [![Twitter][1.2]][1]
-- [![Instagram][2.2]][2]
-- chrispagolu@gmail.com
+</td>
+<td width="50%" valign="top">
 
-<!-- Icons -->
+### `$ cat achievements.log`
 
-[1.2]: https://user-images.githubusercontent.com/53670363/124358215-e0fbeb80-dc51-11eb-8b45-503ce3302de2.png (twitter icon without padding)
-[2.2]: https://user-images.githubusercontent.com/53670363/124358210-da6d7400-dc51-11eb-8afa-7efc09bea4ae.png (Instagram icon without padding)
+```
+[2025] WWDC25 Distinguished Winner - Apple
+[2024] 1st Place - ETH Sydney Hackathon
+[2024] People's Choice - BuildClub Hackathon
+[2025] Met Tim Cook at Apple Park
+```
 
-<!-- Links to your social media accounts -->
+<br>
 
-[1]: https://twitter.com/AllStars101X
-[2]: https://www.instagram.com/chrispagolu
+<div align="center">
 
-# Contribution Graph
-Watch as my contribution graph gets eaten by a snake 😄
-![snake gif](https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=AllStars101-sudo&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="22"> Tree Buddy
+**WWDC25 Distinguished Winner**
+
+AR sustainability app — plant virtual trees, track CO2 reduction, and gamify environmental impact using ARKit & RealityKit.
+
+`Swift` `SwiftUI` `ARKit` `RealityKit`
+
+[![Repo](https://img.shields.io/badge/-Repository-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/AllStars101-sudo/Tree-Buddy)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ AirFrame
+**AI-Powered Self-Stabilising Gimbal**
+
+3-axis gimbal with 4 custom PCBs, ESP32 + BMI088 IMU, Kalman filter + PID control, and an iOS companion app with an AI assistant.
+
+`C/C++` `Swift` `ESP32` `Altium`
+
+[![iOS App](https://img.shields.io/badge/-iOS_App-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/AllStars101-sudo/AirLink) [![Firmware](https://img.shields.io/badge/-Firmware-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/AllStars101-sudo/AirOS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Aurora
+**1st Place — ETH Sydney Hackathon**
+
+Decentralised, wallet-authenticated messaging platform built in 24 hours with Web3 protocols and AI-powered features.
+
+`TypeScript` `Next.js` `XMTP` `Web3`
+
+[![Repo](https://img.shields.io/badge/-Repository-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/AllStars101-sudo/Aurora)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚴 Cycling.ai
+**People's Choice Award — BuildClub**
+
+AI route planning with real-time health analytics, optimising for safety, scenery, and fitness goals.
+
+`Python` `Swift` `AI/ML` `iOS`
+
+[![Web](https://img.shields.io/badge/-Web_App-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/AllStars101-sudo/cycling.ai) [![iOS](https://img.shields.io/badge/-iOS_App-1a1b27?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/AllStars101-sudo/cycling.ai-ios)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**`Languages`**
+
+[![Languages](https://skillicons.dev/icons?i=swift,python,cpp,c,ts,java&theme=dark)](https://skillicons.dev)
+
+**`Frontend & Mobile`**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark)](https://skillicons.dev)
+
+**`Hardware & Embedded`**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%2FVHDL-543978?style=for-the-badge)
+
+**`Cloud & Tools`**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase,git,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AllStars101-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=AllStars101-sudo&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllStars101-sudo&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AllStars101-sudo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=1a1b27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-chrispagolu.com-7aa2f7?style=for-the-badge&logo=safari&logoColor=white)](https://www.chrispagolu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris_Pagolu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-pagolu/)
+[![Email](https://img.shields.io/badge/Email-chrispagolu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrispagolu@gmail.com)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />

@@ -1,4 +1,4 @@
-name: README build
+name: README Uptime Update
 
 on:
   push:
@@ -6,29 +6,29 @@ on:
       - main
   schedule:
     - cron: '30 1 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          fetch-depth: 1
-      - name: Get Python 3.8                               
-        uses: actions/setup-python@v2                               
-        with:                                 
-          python-version: '3.8'
-      - name: Get dateutil
+          python-version: '3.12'
+
+      - name: Install dependencies
         run: pip install python-dateutil
-      - name: Update README file
+
+      - name: Update README uptime
         run: python today.py
-      - name: Commit
-        run: |-
-          git add .
-          git diff
-          git config --global user.email "github-action-bot@example.com"
-          git config --global user.name "GitHub Action Bot"
-          git commit -m "Updated README" -a || echo "No changes to commit"
-          git push
+
+      - name: Commit and push if changed
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git diff --quiet || (git add README.md && git commit -m "Update uptime counter" && git push)
