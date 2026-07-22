@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
+<img width="100%" alt="Chris Pagolu — Hardware, Software, and Everything in Between" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Chris%20Pagolu&fontSize=50&fontColor=c0caf5&fontAlignY=35&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Everything%20in%20Between&descSize=18&descColor=7aa2f7&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=WWDC25+Distinguished+Winner+%F0%9F%8F%86;Incoming+Network+Development+Engineer+Intern+%40+Amazon;Building+at+the+intersection+of+hardware+%26+software;EE+%2B+CS+%40+UNSW+Sydney+%F0%9F%87%A6%F0%9F%87%BA;From+PCBs+to+SwiftUI+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,8 @@ education:
     - B.Eng Electrical Engineering (Hons)
     - B.Sc Computer Science
 role: Full-Stack Engineer + Hardware Hacker
-uptime: "21 years, 11 months, 13 days"
+incoming: Network Development Engineer Intern @ Amazon (Dec 2026)
+uptime: "22 years, 4 months, 4 days"
 ```
 
 </td>
@@ -33,9 +34,9 @@ uptime: "21 years, 11 months, 13 days"
 
 ```
 [2025] WWDC25 Distinguished Winner - Apple
+[2025] Met Tim Cook at Apple Park
 [2024] 1st Place - ETH Sydney Hackathon
 [2024] People's Choice - BuildClub Hackathon
-[2025] Met Tim Cook at Apple Park
 ```
 
 <br>
@@ -143,14 +144,14 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=AllStars101-sudo&theme=tokyonight&hide_border=true&background=0d1117" />
+<img width="49%" alt="GitHub stats" src="./profile/stats.svg" />
+<img width="49%" alt="GitHub contribution streak" src="./profile/streak.svg" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="./profile/top-langs.svg" />
+<img width="40%" alt="Most used languages" src="./profile/top-langs.svg" />
 
 </div>
 
@@ -158,7 +159,7 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AllStars101-sudo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=1a1b27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution activity over the past year](./profile/activity.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -169,9 +170,9 @@ AI route planning with real-time health analytics, optimising for safety, scener
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/AllStars101-sudo/AllStars101-sudo/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllStars101-sudo/AllStars101-sudo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AllStars101-sudo/AllStars101-sudo/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AllStars101-sudo/AllStars101-sudo/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -188,4 +189,4 @@ AI route planning with real-time health analytics, optimising for safety, scener
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer" />

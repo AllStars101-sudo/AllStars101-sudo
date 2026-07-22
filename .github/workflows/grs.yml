@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -26,6 +28,22 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # These two cards come from third-party hosted services that are
+      # frequently rate-limited or down. Snapshot them so the README renders
+      # even when the upstream service doesn't. A failed or non-SVG response
+      # leaves the previously committed card untouched.
+      - name: Snapshot streak card
+        run: |
+          ./scripts/fetch-card.sh \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0d1117" \
+            profile/streak.svg
+
+      - name: Snapshot activity graph
+        run: |
+          ./scripts/fetch-card.sh \
+            "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=1a1b27&area=true&hide_border=true" \
+            profile/activity.svg
 
       - name: Commit cards
         run: |
