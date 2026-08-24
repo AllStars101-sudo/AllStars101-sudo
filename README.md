@@ -24,7 +24,7 @@ education:
     - B.Sc Computer Science
 role: Full-Stack Engineer + Hardware Hacker
 incoming: Network Development Engineer Intern @ Amazon (Dec 2026)
-uptime: "22 years, 5 months, 5 days"
+uptime: "22 years, 5 months, 6 days"
 ```
 
 </td>
